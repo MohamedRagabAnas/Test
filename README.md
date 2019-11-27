@@ -1,7 +1,6 @@
 # Test
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Dataset ID  | Dataset URL| # features | # instances| # classes|
+| ------------- | ------------- |------------- | ------------- |
+
