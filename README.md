@@ -16,6 +16,12 @@
 |     audiology   | https://www.openml.org/d/999 |70| 226  |2|
 |     arrhythmia   | https://www.openml.org/d/999 |280 | 452  |2|
 |     AP_Breast_Lung  |https://www.openml.org/d/1150|10937 | 470  |2|
+|     Amazon  |https://www.openml.org/d/1150|10001 | 1500  |50|
+|     umistfacescropped  |https://www.openml.org/d/41084|10305 | 575  |20|
+|     gina_agnostic  |https://www.openml.org/d/1038|971 | 3468  |2|
+|     hiva_agnostic  |https://www.openml.org/d/1039|1618 | 4229  |2|
+|     phpZrCzJR  |https://www.openml.org/d/1039|37 | 5100  |2|
+|     KDDCup99  |https://www.openml.org/d/1113|42 | 494020  |23|
 
 
 
