@@ -22,6 +22,7 @@
 |     hiva_agnostic  |https://www.openml.org/d/1039|1618 | 4229  |2|
 |     phpZrCzJR  |https://www.openml.org/d/1039|37 | 5100  |2|
 |     KDDCup99  |https://www.openml.org/d/1113|42 | 494020  |23|
+|     connect-4  |https://www.openml.org/d/40668|43 | 67557  |3|
 
 
 
