@@ -2,12 +2,8 @@
 
 
 | Dataset ID    | Dataset URL   | # features   | # instances   | # classes     |
-| ------------- | ------------- |------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
+| ---| --- |--- | --- | --- |
+|     d     | Content Cell  |Content Cell  | Content Cell  |Content Cell   |
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
